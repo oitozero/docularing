@@ -16,6 +16,8 @@ See [grunt-docular.com](http://grunt-docular.com/) for more detailed information
 4. `$ grunt docular-server`
 5. Go to: `http://127.0.0.1:8000/`
 
+Note: Check [live](http://oitozero.github.io/docularing/) result.
+
 ## License
 
 Copyright (c) 2014 Pedro Sampaio
